@@ -9,3 +9,21 @@
 	font-style: normal;
 	font-weight: 400;
 }
+
+.container1	{
+	background-color: #C33F4B;
+	color: yellow;
+	font-family: 'El Rio Lobo';
+	font-size: 32px;
+	text-align: center;
+	height: 300px;
+	vertical-align: text-bottom;
+}
+
+.normal{
+	font-family: "arial";
+	color: white;
+	font-size: 30px;
+
+}
+
